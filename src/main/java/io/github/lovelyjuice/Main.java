@@ -66,7 +66,7 @@ public class Main {
                 System.out.println("出错了，请重试！");
             }
             System.out.println("跳转到书籍第一页后，输入任意字符开始，输入q退出：");
-        }
+            }
         driver.quit();
     }
 }
